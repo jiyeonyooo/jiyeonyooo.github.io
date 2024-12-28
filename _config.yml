@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : DevWithYoo
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
@@ -25,8 +25,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Yoo JiYeon
-#  image             : file:///Users/yoojiyeon/Desktop/project/DevWithYoo/jiyeonyooo.github.io/_site/assets/img/profile_img_sonny.jpg
-  behance           : your_username
+  image             : /assets/img/profile_img_sonny.jpg
+#  behance           : your_username
 # dribbble          : your_username
   email             : ji04230423@gmail.com
 #  facebook          : your_username
