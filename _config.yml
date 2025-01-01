@@ -1,12 +1,11 @@
 ### Site Settings ###
-title               : DevWithYoo
+title               : portfolYOU
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Hello
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : jiyeonyooo/jiyeonyooo.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : yousinix/portfolYOU
+#remote_theme        : yousinix/portfolYOU
+theme: null
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -25,14 +24,14 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Yoo JiYeon
-  image             : /assets/img/profile_img_sonny.jpg
+  image             : ../assets/img/profile_img_sonny.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : ji04230423@gmail.com
 #  facebook          : your_username
   github            : jiyeonyooo
 # gitlab            : your_username
-# instagram         : yeonjiyooo_
+# instagram         : your_username
 # kaggle            : your_username
 #  linkedin          : your_username
 #  medium            : your_username
