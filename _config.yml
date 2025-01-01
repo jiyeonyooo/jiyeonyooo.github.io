@@ -1,7 +1,7 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : DevWithYoo
 description         : >-
-                      Hello
+                      느릴지라도 한 걸음씩 나아가는 게발자입니다 :)
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : jiyeonyooo/jiyeonyooo.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 #remote_theme        : yousinix/portfolYOU
@@ -31,7 +31,7 @@ author:
 #  facebook          : your_username
   github            : jiyeonyooo
 # gitlab            : your_username
-# instagram         : your_username
+# instagram         : yeonjiyooo_
 # kaggle            : your_username
 #  linkedin          : your_username
 #  medium            : your_username
